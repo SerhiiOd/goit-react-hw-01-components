@@ -27,6 +27,8 @@ export const ProfDescription = styled.div`
   width: 233px;
 
   border: 2px solid orange;
+
+  border-radius: 25px 25px 0 0;
 `;
 
 export const ProfAvatar = styled.img`

@@ -42,6 +42,8 @@ export const StatItem = styled.li`
   text-align: center;
 
   width: 75px;
+
+  border-radius: 10px;
 `;
 
 export const StatLabel = styled.span``;
